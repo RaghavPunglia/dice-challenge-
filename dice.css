@@ -1,0 +1,38 @@
+body{
+    background-color: #393E46;
+}
+.container{
+        margin: auto;
+        text-align: center;
+        width: 70%;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    color: aqua;
+    font-size: 5rem;
+    font-family:cursive;
+    margin:40px;
+}
+
+p{
+    color: azure;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 70%;
+}
+
+footer{
+    color: chartreuse;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 1rem; 
+    font-family: Arial, Helvetica, sans-serif;
+}
